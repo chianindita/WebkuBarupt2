@@ -634,3 +634,6 @@ IPHONE 4-4S-5 LANDSCAPE (568x320)
 /********************************
 IPHONE 4-4S-5 PORTRAIT (320x568)
 ********************************/
+.portfolio-thumb .overlay {
+    display: none;
+}
