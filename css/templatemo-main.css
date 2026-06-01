@@ -520,11 +520,13 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: 700;
   color: white;
   margin-bottom: 45px;
+  text-shadow: 2px 2px 6px rgba(0, 0, 0, 0.9);
 }
 .flex-caption p {
   font-size: 18px;
   font-family: 'Droid Serif', serif;
   line-height: 28px;
+  text-shadow: 2px 2px 6px rgba(0, 0, 0, 0.9);
 }
 .flex-caption span {
   background: url(../images/slider-dec.png) no-repeat;
