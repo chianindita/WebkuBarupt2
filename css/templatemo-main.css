@@ -641,3 +641,10 @@ IPHONE 4-4S-5 PORTRAIT (320x568)
 .team-member .overlay {
     display: none;
 }
+
+.team-member .member-img img {
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    border-radius: 8px;
+}
